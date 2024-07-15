@@ -4,6 +4,8 @@
 
   "effect.dehydration.thirst_effect": "Thirst",
 
+  "effect.dehydration.thirst_effect.description": "Increases hydration depletion; higher levels accelerate dehydration.",
+
   "text.autoconfig.dehydration.title": "Dehydration Config",
   "text.autoconfig.dehydration.category.default": "Default Settings",
   "text.autoconfig.dehydration.category.advanced_settings": "Advanced Settings",
